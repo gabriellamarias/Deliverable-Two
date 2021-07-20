@@ -1,0 +1,13 @@
+C:\Users\Gabi\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.exe
+C:\Users\Gabi\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.deps.json
+C:\Users\Gabi\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.runtimeconfig.json
+C:\Users\Gabi\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.runtimeconfig.dev.json
+C:\Users\Gabi\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.dll
+C:\Users\Gabi\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.pdb
+C:\Users\Gabi\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.csproj.AssemblyReference.cache
+C:\Users\Gabi\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.AssemblyInfoInputs.cache
+C:\Users\Gabi\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.AssemblyInfo.cs
+C:\Users\Gabi\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.dll
+C:\Users\Gabi\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.pdb
+C:\Users\Gabi\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.genruntimeconfig.cache
